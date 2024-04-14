@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @andreia-albica
-- 👀 I’m interested in data science, machine learning.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m @andreia-albica.
+- 🇵🇹 Currently in Lisbon, Portugal.
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning data science at Lisbon Data Science Academy
 - 💞️ I’m looking to collaborate on beginner projects, since I just started.
 - 📫 You can reach me on Twitter: @andreia_albica
 
